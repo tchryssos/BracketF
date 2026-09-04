@@ -2,7 +2,7 @@
 
 _The F is for Fox - Just like Fox News, we pretend this is Fair and Balanced, but it really just serves our agenda ദ്ദി(˵⎚ᴗ⎚ ˵ ) ✧_
 
-v0.2.3
+v0.2.4
 
 ## Goal
 
@@ -10,7 +10,7 @@ v0.2.3
 
 We are broadly targeting a [Bracket 4 power level](https://edhrec.com/guides/edhrec-guide-to-commander-brackets#what-does-a-bracket-x-deck-look-like-bracket-4-optimized), but with modifications to the legal card pool and Game Changer rules.
 
-The goal of _this_ variant is to allow for competitive, lethal, and "serious" games of Commander while avoiding some of the unfun play patterns of higher bracket Commander (as determined by the genius minds who created these rules, who are obviously correct and not biased).
+The goal of this variant is to allow for competitive, lethal, and "serious" games of Commander while avoiding some of the unfun play patterns of higher bracket Commander (as determined by the genius minds who created these rules, who are obviously correct and not biased).
 
 ## Card Pool Restrictions
 
