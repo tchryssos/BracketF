@@ -2,7 +2,7 @@
 
 _The F is for Fox - Just like Fox News, we pretend this is Fair and Balanced, but it really just serves our agenda ദ്ദി(˵⎚ᴗ⎚ ˵ ) ✧_
 
-v0.2.4
+v0.2.5
 
 ## Goal
 
@@ -20,11 +20,11 @@ The goal of this variant is to allow for competitive, lethal, and "serious" game
 
 > Tutoring for lands is fine, tutoring for your win-con is not
 
-- #### Land-specific tutors are universally allowed
+- #### Land-specific tutors are allowed
 
   * ✓ Fetch lands, Islandcycling, [Cultivate](https://scryfall.com/card/m21/177/cultivate),  [Crop Rotation](https://scryfall.com/card/ulg/98/crop-rotation), whatever, it's all fine
 
-- #### All tutors that innately _immediately_ tutor are banned
+- #### All other tutors that innately _immediately_ tutor are banned
 
   * ✗ [Demonic Tutor](https://scryfall.com/card/cmm/150/demonic-tutor) is banned because as soon as you cast it you can tutor to your hand.
   * ✗ [Entomb](https://scryfall.com/card/ody/132/entomb) is banned for the same reason, but with the graveyard.
@@ -33,10 +33,11 @@ The goal of this variant is to allow for competitive, lethal, and "serious" game
   * ✓ [Fauna Shaman](https://scryfall.com/card/m11/172/fauna-shaman) is allowed because its tutor ability requires a tap, meaning you need to wait until your next upkeep before using it
   * ✓ [Urza's Saga](https://scryfall.com/card/mh2/259/urzas-saga) is fine because you need to wait until the 3rd chapter of the Saga triggers to tutor
 
-- #### Tutors with a cost to cast/activate of >=6 are allowed regardless of the above restrictions
+- #### Tutors that require 6+ total mana value to tutor the turn they're played are allowed regardless of the above restrictions
 
   * ✓ [Burning-Rune Demon](https://scryfall.com/card/khm/81/burning-rune-demon) is fine. Go nuts.
-  * ✓ [The World Tree](https://scryfall.com/card/khm/275/the-world-tree)'s WWUUBBRRGG ability is fine
+  * ✓ [Realmbreaker, the Invasion Tree](https://scryfall.com/card/mom/263/realmbreaker-the-invasion-tree) is fine. Even though it can be activated the turn it is played, the tutoring effect costs 10 mana (plus 3 for the cast).
+  * ✓ [Priest of the Wakening Sun](https://scryfall.com/card/xln/27/priest-of-the-wakening-sun) is allowed because it costs 6 total mana to cast _and then_ activate the tutoring effect, even though each cost individually is below 6mv and the effect can be activated immediately.
 
 - #### No tutors in the Command Zone even if they meet the above restrictions
 
