@@ -2,7 +2,7 @@
 
 _The F is for Fox - Just like Fox News, we pretend this is Fair and Balanced, but it really just serves our agenda ദ്ദി(˵⎚ᴗ⎚ ˵ ) ✧_
 
-v0.2.2
+v0.2.3
 
 ## Goal
 
@@ -75,7 +75,7 @@ The goal of _this_ variant is to allow for competitive, lethal, and "serious" ga
 
 ### Game Changers
 
-> Try to make it fun, and participate
+> Try to keep it fun, and participate
 
 - #### Any GC covered by an above rule remains banned by that rule
 
