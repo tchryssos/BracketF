@@ -2,7 +2,7 @@
 
 _The F is for Fox - Just like Fox News, we pretend this is Fair and Balanced, but it really just serves our agenda ദ്ദി(˵⎚ᴗ⎚ ˵ ) ✧_
 
-v0.2.0
+v0.2.1
 
 ## Goal
 
@@ -56,9 +56,9 @@ The goal of _this_ variant is to allow for competitive, lethal, and "serious" ga
   * ✗ [Armageddon](https://scryfall.com/card/5ed/7/armageddon), [Winter Orb](https://scryfall.com/card/5ed/408/winter-orb), [Stasis](https://scryfall.com/card/me4/64/stasis) and similar are all banned for fairly obvious reasons
   * ✗ [Death Cloud](https://scryfall.com/card/dst/40/death-cloud) is banned because it includes lands specifically among its destroy X
 
-- #### Cards that give players a choice about what permanents to mass destroy, or when to bounce their own lands are fine, even if it might lead to MLD under the right circumstances
+- #### Cards that give players a choice about what permanents to mass destroy, or when to bounce their own lands are fine, even if they might lead to MLD under the right circumstances
 
-  * ✓ [Torment of Hailfire](https://scryfall.com/card/hou/77/torment-of-hailfire) is allowed because, assuming something else catastrophic hasn't just happened, its either a win-con or a board wipe before it's specifically MLD
+  * ✓ [Silverclad Ferocidons](https://scryfall.com/card/rix/115/silverclad-ferocidons) is allowed
   * ✓ [Overburden](https://scryfall.com/card/pcy/39/overburden) and similar are fine
 
 ### Combos
