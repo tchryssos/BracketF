@@ -2,7 +2,7 @@
 
 _The F is for Fox - Just like Fox News, we pretend this is Fair and Balanced, but it really just serves our agenda ദ്ദി(˵⎚ᴗ⎚ ˵ ) ✧_
 
-v0.2.1
+v0.2.2
 
 ## Goal
 
@@ -13,6 +13,8 @@ We are broadly targeting a [Bracket 4 power level](https://edhrec.com/guides/edh
 The goal of _this_ variant is to allow for competitive, lethal, and "serious" games of Commander while avoiding some of the unfun play patterns of higher bracket Commander (as determined by the genius minds who created these rules, who are obviously correct and not biased).
 
 ## Card Pool Restrictions
+
+> The cards listed below each rule are examples of cards that match the restriction or affordance they are under. They are not an exhaustive list of what is or isn't allowed, just some signposts that tell you what _kinds_ of effects we're talking about in terms of actual cards.
 
 ### Tutors
 
@@ -67,7 +69,7 @@ The goal of _this_ variant is to allow for competitive, lethal, and "serious" ga
 
 - #### Combos that only involve your commander and one other card are banned
 
-  * ✗ [Lavinia, Azorious Renegade + Knowledge Pool](https://commanderspellbook.com/combo/3903-4469/) is banned
+  * ✗ [Lavinia, Azorius Renegade + Knowledge Pool](https://commanderspellbook.com/combo/3903-4469/) is banned
 
 - #### Everything else, including other combos only involving two cards, is fair game
 
