@@ -2,7 +2,7 @@
 
 _The F is for Fox - Just like Fox News, we pretend this is Fair and Balanced, but it really just serves our agenda ദ്ദി(˵⎚ᴗ⎚ ˵ ) ✧_
 
-v0.2.5
+v0.2.6
 
 ## Goal
 
@@ -32,12 +32,14 @@ The goal of this variant is to allow for competitive, lethal, and "serious" game
   * ✗ [Wishclaw Talisman](https://scryfall.com/card/fdn/617/wishclaw-talisman) is banned because as soon as you play it you can activate its ability to search for a card
   * ✓ [Fauna Shaman](https://scryfall.com/card/m11/172/fauna-shaman) is allowed because its tutor ability requires a tap, meaning you need to wait until your next upkeep before using it
   * ✓ [Urza's Saga](https://scryfall.com/card/mh2/259/urzas-saga) is fine because you need to wait until the 3rd chapter of the Saga triggers to tutor
+   * ✓ [Emeritus of Woe](https://scryfall.com/card/sos/80/emeritus-of-woe-demonic-tutor) is allowed because you are unable to cast the prepared "Demonic Tutor" until your next turn
 
-- #### Tutors that require 6+ total mana value to tutor the turn they're played are allowed regardless of the above restrictions
+- #### Tutors where the combined mv and/or cost of the _tutoring_ ability is >= 6 are allowed despite the above restrictions
 
-  * ✓ [Burning-Rune Demon](https://scryfall.com/card/khm/81/burning-rune-demon) is fine. Go nuts.
+  * ✓ [Burning-Rune Demon](https://scryfall.com/card/khm/81/burning-rune-demon) costs 6 to cast. Go nuts.
   * ✓ [Realmbreaker, the Invasion Tree](https://scryfall.com/card/mom/263/realmbreaker-the-invasion-tree) is fine. Even though it can be activated the turn it is played, the tutoring effect costs 10 mana (plus 3 for the cast).
   * ✓ [Priest of the Wakening Sun](https://scryfall.com/card/xln/27/priest-of-the-wakening-sun) is allowed because it costs 6 total mana to cast _and then_ activate the tutoring effect, even though each cost individually is below 6mv and the effect can be activated immediately.
+  * ✗ [Finale of Devastation](https://scryfall.com/card/cmm/289/finale-of-devastation) is banned because, while the best effect is reserved for X >= 10, the card COULD be cast for X = 2. All other X tutors are banned for the same reason.
 
 - #### No tutors in the Command Zone even if they meet the above restrictions
 
@@ -98,3 +100,4 @@ The goal of this variant is to allow for competitive, lethal, and "serious" game
 - How many game changers? 1? 3? Unlimited? I think the current GC rules have axed a bunch of the shittiest ones, so maybe its fine now, but I really don't want to see 10 deck slots in every deck be GCs because they're STILL generically strong
 - Do we want a rule about Reserve List cards or cards where the cheapest printings are astronomically high? Do we still roll our eyes at True Duals or Black Lotus?
 - Do we want to add anything about general philosophy? "Playing stax is fine, building a prison deck is not"? I don't think banning EVERY prison, lockout, or extreme stax-piece is a good idea, but we probably don't want people trying to find "loopholes" either. There's definitely some element of the Spirit of the Game we are trying to engender
+- Where do the tutor rules leave cards like [Finale of Devastation](https://scryfall.com/card/cmm/289/finale-of-devastation)? It seems like X tutors should probably be banned given that they can easily be used for <6 but I don't know...
